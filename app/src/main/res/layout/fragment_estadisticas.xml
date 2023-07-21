@@ -48,7 +48,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/roboto_bold"
-                        android:text="$ 325,40"
+                        android:text=" 325,40"
                         android:textAlignment="center"
                         android:textColor="#393939"
                         android:textSize="26sp" />

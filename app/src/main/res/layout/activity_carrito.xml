@@ -247,7 +247,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="#3E3E3E"
                     android:layout_marginBottom="80dp"
-                    android:text="¡Estás en el carrito! Toca + para agregar artículos."
+                    android:text="You're in the cart! Tap + to add items."
                     android:textAlignment="center"/>
             </LinearLayout>
 
